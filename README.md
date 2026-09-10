@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Luciana
 
-<!--
-**lucianapriscila246-byte/lucianapriscila246-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Analyst in training | Manual, API & Automation Testing**
 
-Here are some ideas to get you started:
+I'm transitioning into Quality Assurance, with training through 
+TripleTen's QA Analyst bootcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧪 **QA Skills**
+- Manual Testing
+- Test Cases & Test Scenarios
+- Equivalence Partitioning & Boundary Value Analysis
+- API Testing (REST)
+- Bug Reporting & Tracking
+- UI Testing with Selenium
+
+💻 **Tools**
+- Postman
+- JIRA
+- Git & GitHub
+- Python / Selenium / Pytest
+
+🌐 **Languages**
+Portuguese (native) · German (B1/B2) · English (basic)
+
+🔗 **Contact**
+[LinkedIn](https://www.linkedin.com/in/luciana-priscila-da-silva-qa)
