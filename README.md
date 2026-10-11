@@ -1,28 +1,33 @@
-### 👋 Hi, I'm Luciana
+# 👋 Olá, eu sou a Luciana | Hallo, ich bin Luciana
 
-**QA Analyst in training | Manual, API & Automation Testing**
+**Analista de QA em formação | Testes manuais, de API e automação**
+**QA-Analystin in Ausbildung | Manuelle Tests, API-Tests und Testautomatisierung**
 
-I'm transitioning into Quality Assurance, with training through 
-TripleTen's QA Analyst bootcamp.
+Estou em transição para a área de Quality Assurance, com formação no bootcamp de Analista de QA da TripleTen. | Ich wechsle in den Bereich Quality Assurance, mit Ausbildung im QA-Analyst-Bootcamp von TripleTen.
 
----
+## 🧪 Conhecimentos em QA | QA-Kenntnisse
+- Testes manuais | Manuelle Tests
+- Casos de teste e cenários de teste | Testfälle und Testszenarien
+- Classes de equivalência e análise de valores-limite | Äquivalenzklassen und Grenzwertanalyse
+- Testes de API (REST) | API-Tests (REST)
+- Relatórios de bug | Bug-Reports
+- Automação de testes de interface com Selenium | UI-Testautomatisierung mit Selenium
 
-🧪 **QA Skills**
-- Manual Testing
-- Test Cases & Test Scenarios
-- Equivalence Partitioning & Boundary Value Analysis
-- API Testing (REST)
-- Bug Reporting & Tracking
-- UI Testing with Selenium
-
-💻 **Tools**
+## 💻 Ferramentas | Werkzeuge
 - Postman
-- JIRA
-- Git & GitHub
-- Python / Selenium / Pytest
+- Jira
+- Git e GitHub
+- Python, Selenium, Pytest
+- SQL (PostgreSQL)
 
-🌐 **Languages**
-Portuguese (native) · German (B1/B2) · English (basic)
+## 📁 Projetos | Projekte
+- [Urban Scooter: Testes de Web e API | Web- und API-Tests](https://github.com/lucianapriscila246-byte/QA_Urban_Scooter_Testing)
+- [Automação de Testes: Urban Routes | Testautomatisierung](https://github.com/lucianapriscila246-byte/QA-Brazil_Python_Automation)
+- [Teste de Regressão: Urban Routes | Regressionstest](https://github.com/lucianapriscila246-byte/QA_Urban_Routes_Regression_Testing)
+- [Análise de Logs e SQL | Log-Analyse und SQL](https://github.com/lucianapriscila246-byte/QA_Taxi_SQL_Log_Analysis)
 
-🔗 **Contact**
-[LinkedIn](https://www.linkedin.com/in/luciana-priscila-da-silva-qa)
+## 🌐 Idiomas | Sprachen
+Português (nativo) · Deutsch (B2) · Inglês (básico, em desenvolvimento)
+
+## 🔗 Contato | Kontakt
+[LinkedIn](www.linkedin.com/in/luciana-priscila-da-silva-qa)
